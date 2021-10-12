@@ -17,5 +17,5 @@ int main() {
   if (x < user_choise) {cout << "Less" << endl;};
   }
 if (flag==false) {cout << "YOU LOSE!\n"; cout << "The number was " << x;};
-
+return 0
 }
